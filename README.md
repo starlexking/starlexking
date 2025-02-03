@@ -1,5 +1,5 @@
-- 👋 Hi, I’m starlex
-- 🌱 I’m currently learning python and c#
+
+currently learning python and c#
 
 <!---
 starlexking/starlexking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
